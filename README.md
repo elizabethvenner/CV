@@ -2,9 +2,9 @@
 
 [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@elizabethvenner) | [LinkedIn](https://www.linkedin.com/in/elizabeth-venner-821a9896)
 
-I'm a full stack junior developer, soon to be graduating from Maker's Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actress and Classical musician.
+I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actress and Classical musician.
 
-As a quick and self-directed learner, I can fit in with a team and hit the ground running. Trained in Agile methodology and TDD, I am well-suited to meeting clients' demands as and when they occur.
+As a quick and self-directed learner, I rise to new challenges and have no fear when approached with unfamiliar technologies. Trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code.
 
 I'm looking for a junior developer role in a company that will appreciate the unique qualities I can bring, while giving me the opportunity to develop my skills and work within a friendly and committed team.
 
@@ -14,18 +14,19 @@ I'm looking for a junior developer role in a company that will appreciate the un
 
 During my time as a temp worker, I was often going into new environments, taking on different roles and approaching new challenges. I became very adept at picking up a job with little to no formal introduction and as a friendly and reliable individual, integrated quickly and easily into numerous teams with the result that I was frequently invited back whenever a company I had worked in needed a temp.
 
+At Makers, I developed my ability to work closely with different individuals as we rotated pairs every day and in the first half of the course and changed project teams every week in the latter half.
 
 #### Teamwork
 
 While working as a waitress, my teamwork skills and can-do attitude were often commented on. In a restaurant, it can be extremely high-pressured and hectic, even if there are no catastrophes to deal with. In such an environment, you need to know that your colleagues have got your back and can be depended on to not only perform their own role to the best of their ability, but come to your aid as and when needed. When I was on shift, my colleagues always knew they could fully rely on me for support.
 
-While at Maker's, working on projects, my team-mates noticed that as well as always playing my part, I was a motivating force, ensuring that every member of the group was able to bring forth ideas and be listened to.
+While at Makers, working on projects, my team-mates noticed that as well as always playing my part, I was a motivating force, ensuring that every member of the group was able to bring forth ideas and be listened to.
 
 #### Analysis
 
 During my work both as an HR Officer and administrative worker for Knight Frank, I often had the opportunity to use my analytical skills to transform data into my meaningful reports for senior members of staff.
 
-My methodical mind means that while at Maker's, I am adept at de-bugging and following the flow of information to find exactly where the problem lies.
+My methodical mind means that while at Makers, I am adept at de-bugging and following the flow of information to find exactly where the problem lies.
 
 ## Experience
 
