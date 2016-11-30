@@ -1,6 +1,6 @@
 ## Elizabeth Venner
 
-[Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@elizabethvenner) | [LinkedIn](https://www.linkedin.com/in/elizabeth-venner-821a9896)
+[Skills](#skills) | [Projects] (#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@elizabethvenner) | [LinkedIn](https://www.linkedin.com/in/elizabeth-venner-821a9896)
 
 I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actress and Classical musician.
 
@@ -28,6 +28,15 @@ During my work both as an HR Officer and administrative worker for Knight Frank,
 
 My methodical mind means that while at Makers, I am adept at de-bugging and following the flow of information to find exactly where the problem lies.
 
+#### Foreign languages
+
+Fluent French and conversational German and Dutch.
+
+## Projects
+
+Project     | Description                        | Technologies      | Testing
+------------|------------------------------------|-------------------|--------
+
 ## Experience
 
 **Chordify** (October 2014 to September 2016)    
@@ -54,13 +63,12 @@ My methodical mind means that while at Makers, I am adept at de-bugging and foll
 ## Education
 
 #### Makers Academy (September 2016 to December 2016)
+A 16-week bootcamp, focussing on:
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, BDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js
-- Rspec, Jasmine
+- Independent learning and problem-solving
+- Object oriented design
+- Test and Behaviour Driven Development
+- Agile methodology and XP values
 
 #### International School of Screen Acting (September 2011 to July 2012)
 Post-graduate certificate in Advanced Acting for Screen
