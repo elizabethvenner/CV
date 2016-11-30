@@ -1,6 +1,6 @@
 ## Elizabeth Venner
 
-[create an anchor](#anchors-in-markdown)
+[Skills](#anchors-in-markdown)
 
 I'm a full stack junior developer, soon to be graduating from Maker's Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actress and Classical musician.
 
