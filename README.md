@@ -6,15 +6,17 @@ I'm a full stack junior developer, soon to be graduating from Makers Academy, on
 
 As a quick and self-directed learner, I rise to new challenges and have no fear when approached with unfamiliar technologies. Trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code.
 
+attention to detail
+
 I'm looking for a junior developer role in a company that will appreciate the unique qualities I can bring, while giving me the opportunity to develop my skills and work within a friendly and committed team.
 
 ## Skills
 
-#### Flexible
+#### Analysis
 
-During my time as a temp worker, I was often going into new environments, taking on different roles and approaching new challenges. I became very adept at picking up a job with little to no formal introduction and as a friendly and reliable individual, integrated quickly and easily into numerous teams with the result that I was frequently invited back whenever a company I had worked in needed a temp.
+During my work both as an HR Officer and administrative worker for Knight Frank, I often had the opportunity to use my analytical skills to transform data - what kind of data into my meaningful reports - what kind of reports, how many? for senior members of staff.
 
-At Makers, I developed my ability to work closely with different individuals as we rotated pairs every day and in the first half of the course and changed project teams every week in the latter half.
+My methodical mind means that while at Makers, I am adept at de-bugging and following the flow of information to find exactly where the problem lies.
 
 #### Teamwork
 
@@ -22,11 +24,11 @@ While working as a waitress, my teamwork skills and can-do attitude were often c
 
 While at Makers, working on projects, my team-mates noticed that as well as always playing my part, I was a motivating force, ensuring that every member of the group was able to bring forth ideas and be listened to.
 
-#### Analysis
+#### Adaptable
 
-During my work both as an HR Officer and administrative worker for Knight Frank, I often had the opportunity to use my analytical skills to transform data into my meaningful reports for senior members of staff.
+As a temp worker, I often worked in different environments, taking on different roles and approaching new challenges. I can pick up new things very quickly and have always integrated quickly and easily into teams. As a result, I was frequently invited back whenever a company I had worked in needed a temp.
 
-My methodical mind means that while at Makers, I am adept at de-bugging and following the flow of information to find exactly where the problem lies.
+At Makers, I developed my ability to work closely with different individuals as we rotated pairs every day and in the first half of the course and changed project teams every week in the latter half.
 
 #### Foreign languages
 
