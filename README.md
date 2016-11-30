@@ -2,11 +2,9 @@
 
 [Skills](#skills) | [Projects] (#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@elizabethvenner) | [LinkedIn](https://www.linkedin.com/in/elizabeth-venner-821a9896)
 
-I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actress and Classical musician.
+I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actor and Classical musician.
 
-As a quick and self-directed learner, I rise to new challenges and have no fear when approached with unfamiliar technologies. Trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code.
-
-attention to detail
+As a quick and self-directed learner, I don't balk when approached with unfamiliar technologies because I know I can develop the understanding to get me up to speed. Trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code, while my attention to detail means that I'm 
 
 I'm looking for a junior developer role in a company that will appreciate the unique qualities I can bring, while giving me the opportunity to develop my skills and work within a friendly and committed team.
 
