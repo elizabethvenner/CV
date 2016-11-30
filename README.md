@@ -1,6 +1,6 @@
 ## Elizabeth Venner
 
-[Skills](#skills)
+[Skills](##skills) | [Experience](##experience) | [Education](##education) | [Interests](##interests) | [Blog](https://medium.com/@elizabethvenner) | [LinkedIn](https://www.linkedin.com/in/elizabeth-venner-821a9896)
 
 I'm a full stack junior developer, soon to be graduating from Maker's Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actress and Classical musician.
 
@@ -18,7 +18,7 @@ While at Maker's, working on projects, my team-mates noticed that as well as alw
 
 #### Analysis
 
-During my work both as an HR Officer and administrative worker for Knight Frank, I often had the opportunity to use my analytical skills to transform data into my meaningful reports for senior members of staff.
+[Skills](##skills)During my work both as an HR Officer and administrative worker for Knight Frank, I often had the opportunity to use my analytical skills to transform data into my meaningful reports for senior members of staff.
 
 My methodical mind means that while at Maker's, I am adept at de-bugging and following the flow of information to find exactly where the problem lies.
 
