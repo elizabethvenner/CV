@@ -46,10 +46,10 @@ Note taking app | An SPA written in vanilla JavaScript for taking notes| JavaScr
 *Assistant Business Administrator (part-time)* 
 
 **Temporary worker** (May 2014 to September 2016)   
-*Various part time roles (mainly at estate agent Knight Frank but also other companies) including End of Tenancy Co-ordinator, Compliance Assistant, HR Support and Receptionist *
+*Various part time roles (mainly at estate agent Knight Frank but also other companies) including End of Tenancy Co-ordinator, Compliance Assistant, HR Support and Receptionist*
 
 **Self-employed** (October 2011 to January 2016)   
-*Actress in independent film, pantomime and corporate work *
+*Actress in independent film, pantomime and corporate work*
 
 **Steak & Co** (December 2011 to April 2014)   
 *Waitress*
