@@ -4,7 +4,7 @@
 
 I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actor and Classical musician.
 
-As a quick and self-directed learner, I don't balk when approached with unfamiliar technologies because I know I can develop the understanding to get me up to speed. Trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code, while my attention to detail means that I'm 
+As a quick and self-directed learner, I don't balk when approached with unfamiliar technologies because I know I can develop the understanding to get me up to speed. As an avid pair programmer trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code, while my attention to detail means that I'm good at spotting bugs.
 
 I'm looking for a junior developer role in a company that will appreciate the unique qualities I can bring, while giving me the opportunity to develop my skills and work within a friendly and committed team.
 
@@ -12,9 +12,9 @@ I'm looking for a junior developer role in a company that will appreciate the un
 
 #### Analysis
 
-During my work both as an HR Officer and administrative worker for Knight Frank, I often had the opportunity to use my analytical skills to transform data - what kind of data into my meaningful reports - what kind of reports, how many? for senior members of staff.
+While an HR Officer in Luxembourg, my analytical skills enabled me to massage convoluted data such as employee sickness statistics pulled from a rather temperamental system into a concise and readable format for senior members of staff. 
 
-My methodical mind means that while at Makers, I am adept at de-bugging and following the flow of information to find exactly where the problem lies.
+My methodical mind means that at Makers Academy, debugging is one of my strengths as I am good at examining the stack trace and using visibility gaining techniques to tighten the loop on bugs.
 
 #### Teamwork
 
