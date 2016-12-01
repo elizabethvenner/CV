@@ -34,9 +34,9 @@ Fluent French and conversational German and Dutch.
 
 ## Projects
 
-Project     | Description                        | Technologies      | Testing
-------------|------------------------------------|-------------------|--------
-
+Project         | Description                                          | Technologies      | Testing
+----------------|------------------------------------------------------|-------------------|----------------
+Note taking app | An SPA written in vanilla JavaScript for taking notes| JavaScript, Node  | Wrote own tests
 ## Experience
 
 **Chordify** (October 2014 to September 2016)    
