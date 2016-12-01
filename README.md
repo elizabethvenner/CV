@@ -35,8 +35,9 @@ Fluent French and conversational German and Dutch.
 ## Projects
 
 Project         | Description                                          | Technologies      | Testing
-----------------|------------------------------------------------------|-------------------|----------------
-Note taking app | An SPA written in vanilla JavaScript for taking notes| JavaScript, Node  | Wrote own tests
+----------------|------------------------------------------------------|-------------------|------------------------
+Note taking app | An SPA written in vanilla JavaScript for taking notes| JavaScript, Node  | Self-written test suite
+Chitterbeth     | A clone of Twitter                                   | Ruby, Sinatra, PostrgreSQL | RSpec, Capybara
 ## Experience
 
 **Chordify** (October 2014 to September 2016)    
