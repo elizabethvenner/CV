@@ -18,9 +18,9 @@ While an HR Officer in Luxembourg, my analytical skills enabled me to massage co
 
 #### Communication
 
-As a user support 
+As a user support worker for Chordify, I was able to pass (often negative!) customer feedback back to the software developers in a friendly manner, while at the same time ensuring that any issues were dealt with. I also had a super friendly attitude towards the users and was good at helping them with their problems. 
 
-While working as a waitress, my teamwork skills and can-do attitude were often commented on. In a restaurant, it can be extremely high-pressured and hectic, even if there are no catastrophes to deal with. In such an environment, you need to know that your colleagues have got your back and can be depended on to not only perform their own role to the best of their ability, but come to your aid as and when needed. When I was on shift, my colleagues always knew they could fully rely on me for support.
+My colleagues at Makers Academy have commented that I am brave and always willing to participate in group discussions, share code in group reviews etc. I'm not afraid to receive critical feedback and can communicate what I need.
 
 #### Adaptable team-worker
 
