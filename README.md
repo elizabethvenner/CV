@@ -12,21 +12,21 @@ I'm looking for a junior developer role in a company that will appreciate the un
 
 #### Analysis
 
-While an HR Officer in Luxembourg, my analytical skills enabled me to massage convoluted data such as employee sickness statistics pulled from a rather temperamental system into a concise and readable format for senior members of staff. 
-
 My methodical mind means that at Makers Academy, debugging is one of my strengths as I am good at examining the stack trace and using visibility gaining techniques to tighten the loop on bugs.
 
-#### Teamwork
+While an HR Officer in Luxembourg, my analytical skills enabled me to massage convoluted data such as employee sickness statistics pulled from a rather temperamental system into a concise and readable format for senior members of staff. 
+
+#### Communication
+
+As a user support 
 
 While working as a waitress, my teamwork skills and can-do attitude were often commented on. In a restaurant, it can be extremely high-pressured and hectic, even if there are no catastrophes to deal with. In such an environment, you need to know that your colleagues have got your back and can be depended on to not only perform their own role to the best of their ability, but come to your aid as and when needed. When I was on shift, my colleagues always knew they could fully rely on me for support.
 
-While at Makers, working on projects, my team-mates noticed that as well as always playing my part, I was a motivating force, ensuring that every member of the group was able to bring forth ideas and be listened to.
+#### Adaptable team-worker
 
-#### Adaptable
+At Makers, I collaborated closely with different individuals due to rotating pairs and project teams throughout the course. People I worked with noticed that I was a motivating force, ensuring that every member of the group was able to bring forth ideas and be listened to.
 
-As a temp worker, I often worked in different environments, taking on different roles and approaching new challenges. I can pick up new things very quickly and have always integrated quickly and easily into teams. As a result, I was frequently invited back whenever a company I had worked in needed a temp.
-
-At Makers, I developed my ability to work closely with different individuals as we rotated pairs every day and in the first half of the course and changed project teams every week in the latter half.
+As a temp worker, I often worked in many environments, taking on new challenges in a variety of roles. I pick up unfamiliar tasks quickly and integrate easily into a team. As a result, I was frequently invited back to companies I had worked with.
 
 #### Foreign languages
 
