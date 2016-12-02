@@ -4,7 +4,7 @@
 
 I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actor and Classical musician.
 
-As a quick and self-directed learner, I don't balk when approached with unfamiliar technologies because I know I can develop the understanding to get me up to speed. As an avid pair programmer trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code, while my attention to detail means that I'm good at spotting bugs.
+As a quick and self-directed learner, I don't balk when approached with unfamiliar technologies. An avid pair programmer trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code, while my attention to detail means that I'm good at spotting bugs.
 
 I'm looking for a junior developer role in a company that will appreciate the unique qualities I can bring, while giving me the opportunity to develop my skills and work within a friendly and committed team.
 
@@ -18,13 +18,13 @@ While an HR Officer in Luxembourg, my analytical skills enabled me to massage co
 
 #### Communication
 
-As a user support worker for Chordify, I was able to pass (often negative!) customer feedback back to the software developers in a friendly manner, while at the same time ensuring that any issues were dealt with. I also had a super friendly attitude towards the users and was good at helping them with their problems. 
+As a user support worker for a start-up, I liaised effectively with software developers to implement change based on user feedback. Additionally, the partners often praised my professional and pleasant handling of difficult customers.
 
-My colleagues at Makers Academy have commented that I am brave and always willing to participate in group discussions, share code in group reviews etc. I'm not afraid to receive critical feedback and can communicate what I need.
+My colleagues at Makers Academy have commented that I am brave and always willing to participate in group discussions and share my code in group reviews. I'm not afraid of receiving critical feedback, taking it as an opportunity to learn.
 
 #### Adaptable team-worker
 
-At Makers, I collaborated closely with different individuals due to rotating pairs and project teams throughout the course. People I worked with noticed that I was a motivating force, ensuring that every member of the group was able to bring forth ideas and be listened to.
+At Makers, I collaborated closely with different individuals due to rotating pairs and project teams throughout the course. In groups, I was a motivating force, ensuring that every member was able to bring forth ideas and be listened to.
 
 As a temp worker, I often worked in many environments, taking on new challenges in a variety of roles. I pick up unfamiliar tasks quickly and integrate easily into a team. As a result, I was frequently invited back to companies I had worked with.
 
