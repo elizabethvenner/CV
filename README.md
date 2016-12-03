@@ -4,7 +4,7 @@
 
 I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity and disclipline of a professional actor and Classical musician.
 
-As a quick and self-directed learner, I approach unfamiliar technologies with confidence and appreciate critical feedback as a means of self-improvement. An avid pair programmer trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code. 
+As a quick and self-directed learner, I approach unfamiliar technologies with confidence and appreciate critical feedback as a means of self-improvement. An avid pair programmer trained in Agile methodology and TDD, I am an adaptive worker and build robust, clean code. 
 
 I'm looking for a junior developer role in a company who will give me the opportunity to develop my skills in a supportive environment while working within a friendly and committed team.
 
@@ -13,9 +13,9 @@ I'm looking for a junior developer role in a company who will give me the opport
 #### Analysis
 *"Elizabeth is an excellent debugger", Malinna Leach, colleague at Makers Academy*
 
-The above was said as my attention to detail, methodical examination of the stack trace and judicious use of visibility gaining techniques empowered me to find bugs during a group project, despite having little prior knowledge of the technologies used.
+My attention to detail, methodical examination of the stack trace and judicious use of visibility gaining techniques empowered me to find bugs during group projects at Makers Academy, despite little prior knowledge of the technologies used.
 
-While an HR Officer in Luxembourg, my analytical skills enabled me to massage convoluted data such as employee sickness statistics pulled from a rather temperamental system into a concise and readable format for senior members of staff. 
+While an HR Officer in Luxembourg, my analytical skills enabled me to massage convoluted data such as employee sickness statistics pulled from a rather temperamental system into a concise and readable format for senior staff members. 
 
 #### Communication
 *"I love your direct approach and honest opinion", founding partner at Chordify*
@@ -25,7 +25,7 @@ As a user support worker for a start-up, I liaised effectively with software dev
 At Makers Academy, my colleagues commented on my willingness to respectfully challenge different approaches while clearly communicating my ideas and being courageous about sharing my own code for review.
 
 #### Adaptable team player
-*"Thank you...it was seamless", senior partner at Knight Frank, on my filling in for an employee on a week-long assingment*
+*"Thank you...it was seamless", senior partner at Knight Frank, on my filling in for an employee on a week-long assignment*
 
 At Makers, I am a motivating force in projects, ensuring that every team member is listened to. I pair with a different person every day and am quick to tune into another individual's style of working and thought processes.
 
