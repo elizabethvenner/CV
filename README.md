@@ -27,7 +27,7 @@ At Makers Academy, my colleagues commented on my willingness to respectfully cha
 #### Adaptable team player
 *"Thank you...it was seamless", senior partner at Knight Frank, on my filling in for an employee on a week-long assingment*
 
-At Makers, I am a motivating force in projects, ensuring that every team member was listened to. I pair with a different person every day and am quick to tune into another individual's style of working and thought processes.
+At Makers, I am a motivating force in projects, ensuring that every team member is listened to. I pair with a different person every day and am quick to tune into another individual's style of working and thought processes.
 
 As a temp, I worked in many environments, taking on new challenges in a variety of roles. I pick up unfamiliar tasks quickly and integrate easily into a team. As a result, I was frequently invited back to companies I had worked with.
 
