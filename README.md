@@ -2,17 +2,18 @@
 
 [Skills](#skills) | [Projects] (#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@elizabethvenner) | [LinkedIn](https://www.linkedin.com/in/elizabeth-venner-821a9896)
 
-I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity of a professional actor and Classical musician.
+I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity and disclipline of a professional actor and Classical musician.
 
-As a quick and self-directed learner, I don't balk when approached with unfamiliar technologies. An avid pair programmer trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code, while my attention to detail means that I'm good at spotting bugs.
+As a quick and self-directed learner, I approach unfamiliar technologies with convidence. An avid pair programmer trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code. 
 
-I'm looking for a junior developer role in a company that will appreciate the unique qualities I can bring, while giving me the opportunity to develop my skills and work within a friendly and committed team.
+I'm looking for a junior developer role in a company whol will give me the opportunity to develop my skills in a supportive environment while working within a friendly and committed team.
 
 ## Skills
 
 #### Analysis
+*"Elizabeth is an excellent debugger", comment by a colleague at Makers Academy*
 
-My methodical mind means that at Makers Academy, debugging is one of my strengths as I am good at examining the stack trace and using visibility gaining techniques to tighten the loop on bugs.
+The above was said of me as my attention to detail, methodical examination of the stack trace and judicious use of visibility gaining techniques empowered me to find bugs on a project despite having little prior knowledge of the technologies used.
 
 While an HR Officer in Luxembourg, my analytical skills enabled me to massage convoluted data such as employee sickness statistics pulled from a rather temperamental system into a concise and readable format for senior members of staff. 
 
@@ -20,9 +21,9 @@ While an HR Officer in Luxembourg, my analytical skills enabled me to massage co
 
 As a user support worker for a start-up, I liaised effectively with software developers to implement change based on user feedback. Additionally, the partners often praised my professional and pleasant handling of difficult customers.
 
-My colleagues at Makers Academy have commented that I am brave and always willing to participate in group discussions and share my code in group reviews. I'm not afraid of receiving critical feedback, taking it as an opportunity to learn.
+My colleagues at Makers Academy have commented that I am courageous and always willing to participate in group discussions and share my code in group reviews. I'm not afraid of receiving critical feedback, taking it as an opportunity to learn.
 
-#### Adaptable team-worker
+#### Adaptable team-player
 
 At Makers, I collaborated closely with different individuals due to rotating pairs and project teams throughout the course. In groups, I was a motivating force, ensuring that every member was able to bring forth ideas and be listened to.
 
@@ -36,6 +37,7 @@ Fluent French and conversational German and Dutch.
 
 Project         | Description                                          | Technologies      | Testing
 ----------------|------------------------------------------------------|-------------------|------------------------
+[To do list app] | 
 [Chitterbeth](https://github.com/elizabethvenner/chitter-challenge)     | A clone of Twitter                                   | Ruby, Sinatra, PostrgreSQL, bcrypt, datamapper| RSpec, Capybara
 [Note taking app](https://github.com/elizabethvenner/notes) | An SPA written in vanilla JavaScript for taking notes| JavaScript, Node  | Self-written test suite
 
