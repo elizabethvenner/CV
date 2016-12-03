@@ -6,7 +6,7 @@ I'm a full stack junior developer, soon to be graduating from Makers Academy, on
 
 As a quick and self-directed learner, I approach unfamiliar technologies with confidence and appreciate critical feedback as a means of self-improvement. An avid pair programmer trained in Agile methodology and TDD, I am an adaptive worker and build robust, clean code. 
 
-I'm looking for a junior developer role in a company who will give me the opportunity to develop my skills in a supportive environment while working within a friendly and committed team.
+I'm looking for a junior developer role in a company which will give me the opportunity to develop my skills in a supportive environment while working within a friendly and committed team.
 
 ## Skills
 
