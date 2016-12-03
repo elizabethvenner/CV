@@ -4,30 +4,32 @@
 
 I'm a full stack junior developer, soon to be graduating from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity and disclipline of a professional actor and Classical musician.
 
-As a quick and self-directed learner, I approach unfamiliar technologies with convidence. An avid pair programmer trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code. 
+As a quick and self-directed learner, I approach unfamiliar technologies with confidence and appreciate critical feedback as a means of self-improvement. An avid pair programmer trained in Agile methodology and TDD, I have an adaptive style of working and build robust, clean code. 
 
-I'm looking for a junior developer role in a company whol will give me the opportunity to develop my skills in a supportive environment while working within a friendly and committed team.
+I'm looking for a junior developer role in a company who will give me the opportunity to develop my skills in a supportive environment while working within a friendly and committed team.
 
 ## Skills
 
 #### Analysis
-*"Elizabeth is an excellent debugger", comment by a colleague at Makers Academy*
+*"Elizabeth is an excellent debugger", Malinna Leach, colleague at Makers Academy*
 
-The above was said of me as my attention to detail, methodical examination of the stack trace and judicious use of visibility gaining techniques empowered me to find bugs on a project despite having little prior knowledge of the technologies used.
+The above was said as my attention to detail, methodical examination of the stack trace and judicious use of visibility gaining techniques empowered me to find bugs during a group project, despite having little prior knowledge of the technologies used.
 
 While an HR Officer in Luxembourg, my analytical skills enabled me to massage convoluted data such as employee sickness statistics pulled from a rather temperamental system into a concise and readable format for senior members of staff. 
 
 #### Communication
+*"I love your direct approach and honest opinion", founding partner at Chordify*
 
-As a user support worker for a start-up, I liaised effectively with software developers to implement change based on user feedback. Additionally, the partners often praised my professional and pleasant handling of difficult customers.
+As a user support worker for a start-up, I liaised effectively with software development and marketing teams to implement change based on user feedback and my own analysis. 
 
-My colleagues at Makers Academy have commented that I am courageous and always willing to participate in group discussions and share my code in group reviews. I'm not afraid of receiving critical feedback, taking it as an opportunity to learn.
+At Makers Academy, my colleagues commented on my willingness to respectfully challenge different approaches while clearly communicating my ideas and being courageous about sharing my own code for review.
 
-#### Adaptable team-player
+#### Adaptable team player
+*"Thank you...it was seamless", senior partner at Knight Frank, on my filling in for an employee on a week-long assingment*
 
-At Makers, I collaborated closely with different individuals due to rotating pairs and project teams throughout the course. In groups, I was a motivating force, ensuring that every member was able to bring forth ideas and be listened to.
+At Makers, I am a motivating force in projects, ensuring that every team member was listened to. I pair with a different person every day and am quick to tune into another individual's style of working and thought processes.
 
-As a temp worker, I often worked in many environments, taking on new challenges in a variety of roles. I pick up unfamiliar tasks quickly and integrate easily into a team. As a result, I was frequently invited back to companies I had worked with.
+As a temp, I worked in many environments, taking on new challenges in a variety of roles. I pick up unfamiliar tasks quickly and integrate easily into a team. As a result, I was frequently invited back to companies I had worked with.
 
 #### Foreign languages
 
@@ -37,7 +39,6 @@ Fluent French and conversational German and Dutch.
 
 Project         | Description                                          | Technologies      | Testing
 ----------------|------------------------------------------------------|-------------------|------------------------
-[To do list app] | 
 [Chitterbeth](https://github.com/elizabethvenner/chitter-challenge)     | A clone of Twitter                                   | Ruby, Sinatra, PostrgreSQL, bcrypt, datamapper| RSpec, Capybara
 [Note taking app](https://github.com/elizabethvenner/notes) | An SPA written in vanilla JavaScript for taking notes| JavaScript, Node  | Self-written test suite
 
