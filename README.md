@@ -10,8 +10,7 @@ I'm looking for a junior developer role in a company which will give me the oppo
 
 ## Skills
 
-#### Analysis
-*"Elizabeth is an excellent debugger", Malinna Leach, colleague at Makers Academy*
+#### Analysis *"Elizabeth is an excellent debugger", Malinna Leach, colleague at Makers Academy*
 
 My attention to detail, methodical examination of the stack trace and judicious use of visibility gaining techniques empowered me to find bugs during group projects at Makers Academy, despite little prior knowledge of the technologies used.
 
