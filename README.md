@@ -40,8 +40,8 @@ Fluent French and conversational German and Dutch.
 Project         | Description                                          | Timeframe | Technologies      | Testing
 ----------------|------------------------------------------------------|---------- |-------------------|----------
 [Pong](https://github.com/elizabethvenner/pong)| Multiplayer pong in real time. | 10 days | JavaScript, Node, Express, socket.io, webpack | Jasmine
-[Chitterbeth](https://github.com/elizabethvenner/chitter-challenge) | 2 days | A clone of Twitter                                   | Ruby, Sinatra, PostrgreSQL, bcrypt, datamapper| RSpec, Capybara
-[Note taking app](https://github.com/elizabethvenner/notes) | An SPA written in vanilla JavaScript for taking notes. Week long group project | 5 days | JavaScript, Node  | Self-written test suite
+[Chitterbeth](https://github.com/elizabethvenner/chitter-challenge) | A clone of Twitter. Individual project. | 2 days | Ruby, Sinatra, PostrgreSQL, bcrypt, datamapper| RSpec, Capybara
+[Note taking app](https://github.com/elizabethvenner/notes) | An SPA written in vanilla JavaScript for taking notes. | 5 days | JavaScript, Node  | Self-written test suite
 
 Other technologies: Rails, Express, Sequelize, React JS, Jasmine, Python, Django
 
