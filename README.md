@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects] (#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@elizabethvenner) | [LinkedIn](https://www.linkedin.com/in/elizabeth-venner-821a9896)
 
-I'm a full stack junior developer who has just graduated from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity and disclipline of a professional actor and Classical musician.
+I'm a full stack junior developer who has just graduated from Makers Academy, one of the world's best coding bootcamps. Enthusiastic, perserverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity and discipline of a professional actor and Classical musician.
 
 As a quick and self-directed learner, I approach unfamiliar technologies with confidence and appreciate critical feedback as a means of self-improvement. An avid pair programmer trained in Agile methodology and TDD, I am an adaptive worker and build robust, clean code. 
 
@@ -83,12 +83,10 @@ Post-graduate certificate in Advanced Acting for Screen
 British Academy of Stage and Screen Combat (BASSC): Screen Combat Certificate (2012)
 
 #### University of Birmingham (September 2004 to July 2007)
-Music, BMus 2:1
-Member of the presitigious City of Birmingham Symphony Chorus, touring nationally and internationally
+Music, BMus 2:1                                                                                                             Member of the presitigious City of Birmingham Symphony Chorus, touring nationally and internationally
 
 #### Durham Johnston Comprehensive School (September 2002 to July 2004)
-A2 Levels - English Literature, French, Music - A
-AS Levels - Critical Thinking, Drama and Theatre Studies - A
+A2 Levels - English Literature, French, Music - A                                                                              AS Levels - Critical Thinking, Drama and Theatre Studies - A
 
 #### Belmont Comprehensive School, Durham
 7 A\*s and 3 As at GCSE
