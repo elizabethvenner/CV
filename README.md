@@ -83,10 +83,11 @@ Post-graduate certificate in Advanced Acting for Screen
 British Academy of Stage and Screen Combat (BASSC): Screen Combat Certificate (2012)
 
 #### University of Birmingham (September 2004 to July 2007)
-Music, BMus 2:1                                                                                                             Member of the presitigious City of Birmingham Symphony Chorus, touring nationally and internationally
+Music, BMus 2:1Member of the presitigious City of Birmingham Symphony Chorus, touring nationally and internationally
 
 #### Durham Johnston Comprehensive School (September 2002 to July 2004)
-A2 Levels - English Literature, French, Music - A                                                                              AS Levels - Critical Thinking, Drama and Theatre Studies - A
+A2 Levels - English Literature, French, Music - A <br/>
+AS Levels - Critical Thinking, Drama and Theatre Studies - A
 
 #### Belmont Comprehensive School, Durham
 7 A\*s and 3 As at GCSE
