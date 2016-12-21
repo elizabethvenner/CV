@@ -25,7 +25,7 @@ As a user support worker for a start-up, I liaised effectively with software dev
 At Makers Academy, my colleagues commented on my willingness to respectfully challenge different approaches while clearly communicating my ideas and being courageous about sharing my own code for review.
 
 #### Adaptable team player
-*"Thank you...it was seamless", senior partner at Knight Frank, on my filling in for an employee on a week-long assignment*
+*"Thank you...it was seamless", senior partner at Knight Frank, on my ability to jump in and pick up a job quickly*
 
 At Makers, I was a motivating force in projects, ensuring that every team member was listened to. I paired with a different person every day and was quick to tune into another individual's style of working and thought processes.
 
