@@ -79,11 +79,12 @@ A 16-week bootcamp, focussing on:
 - Agile methodology and XP values
 
 #### International School of Screen Acting (September 2011 to July 2012)
-Post-graduate certificate in Advanced Acting for Screen
+Post-graduate certificate in Advanced Acting for Screen <br/>
 British Academy of Stage and Screen Combat (BASSC): Screen Combat Certificate (2012)
 
 #### University of Birmingham (September 2004 to July 2007)
-Music, BMus 2:1Member of the presitigious City of Birmingham Symphony Chorus, touring nationally and internationally
+Music, BMus 2:1 <br/>
+Member of the presitigious City of Birmingham Symphony Chorus, touring nationally and internationally
 
 #### Durham Johnston Comprehensive School (September 2002 to July 2004)
 A2 Levels - English Literature, French, Music - A <br/>
