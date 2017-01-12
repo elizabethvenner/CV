@@ -4,7 +4,7 @@
 
 I'm a full stack junior developer who has just graduated from [Makers Academy](http://employers.makersacademy.com/), one of the world's best coding bootcamps. Enthusiastic, perserverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity and discipline of a professional actor and Classical musician.
 
-As a quick and self-directed learner, I approach unfamiliar technologies with confidence and appreciate critical feedback as a means of self-improvement. An avid pair programmer trained in Agile methodology and TDD, I am an adaptive worker and build robust, clean code.
+As a quick and self-directed learner, I approach unfamiliar technologies confidently and welcome critical feedback. An avid pair programmer trained in Agile methodology and TDD, I am an adaptive worker and build robust, clean code.
 
 I'm looking for a junior developer role in a company which will give me the opportunity to develop my skills in a supportive environment while working within a friendly and committed team.
 
@@ -22,7 +22,7 @@ As a user support worker for a start-up, I liaised effectively with software dev
 
 At Makers Academy, my colleagues commented on my willingness to respectfully challenge different approaches while clearly communicating my ideas and being courageous about sharing my own code for review.
 
-__Adaptable team player__ *"Thank you...it was seamless", senior partner at Knight Frank, on my ability to jump in and pick up a job quickly*
+__Adaptable team player__ *"Thank you...it was seamless", Knight Frank senior partner, on my ability to pick up a job quickly*
 
 At Makers, I was a motivating force in projects, ensuring that every team member was listened to. I paired with a different person every day and was quick to tune into another individual's style of working and thought processes.
 
