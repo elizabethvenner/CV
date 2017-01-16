@@ -2,7 +2,7 @@
 
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests) | [Blog](https://medium.com/@elizabethvenner) | [LinkedIn](https://www.linkedin.com/in/elizabeth-venner-821a9896)
 
-I'm a full stack junior developer who has just graduated from [Makers Academy](http://employers.makersacademy.com/), one of the world's best coding bootcamps. Enthusiastic, perserverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity and discipline of a professional actor and Classical musician.
+I'm a full stack junior developer who has just graduated from [Makers Academy](http://employers.makersacademy.com/), one of the world's best coding bootcamps. Enthusiastic, perseverant and multi-lingual, I bring with me a wealth of transferable skills garnered from over 9 years working in administrative and customer-facing roles in the UK and abroad, as well as the creativity and discipline of a professional actor and Classical musician.
 
 As a quick and self-directed learner, I approach unfamiliar technologies confidently and welcome critical feedback. An avid pair programmer trained in Agile methodology and TDD, I am an adaptive worker and build robust, clean code.
 
